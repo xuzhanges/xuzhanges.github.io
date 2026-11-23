@@ -1,19 +1,15 @@
 # main links links
 main:
-  - title: "简介"
-    url: "/xuzhanges/#about-me"
 
-  - title: "学历"
-    url: "/xuzhanges/#-xl"
+  - title: "CV"
+    url: "/xuzhanges/uploads/resume.pdf"
 
-  - title: "论文专利"
-    url: "/xuzhanges/#-lwzl"
+  - title: "Publications"
+    url: "/xuzhanges/publications.html"
 
-  - title: "荣誉奖项"
-    url: "/xuzhanges/#-ryjx"
+  - title: "Research"
+    url: "/xuzhanges/research.html"
 
-  - title: "学术会议"
-    url: "/xuzhanges/#-xshy"
 
-  - title: "工作实习"
-    url: "/xuzhanges/#-gzsx"
+
+

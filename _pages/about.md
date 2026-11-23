@@ -23,16 +23,16 @@ This is Xu Zhang
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 Education
 - *2022.09 - present*, PhD Peking University  Envrionmental Science
 - *2018.09 - 2022.06*, Bachelor Hohai University  Envrionmental Science
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 Publication
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications, Jun 2026</div><img src='images/iccsip2023.png' alt="sym" width="100%"></div></div>
+# peer-reviewed papers
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications, Jun 2026</div><img src='images/iccsip2023.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
 -	 Chlorinated VSLSs Surpass HCFCs in CFC-11-Equivalent Emissions for Ozone Layer Depletion in China
@@ -42,14 +42,14 @@ This study demonstrates that chlorinated very short-lived substances have surpas
 <!-- [[网页]](https://www.nature.com/articles/s41467-026-75080-y) [[预览]](1) [[下载]](/pdf/2) -->
 [[网页]](https://www.nature.com/articles/s41467-026-75080-y) [[预览]](1) [[下载]](/pdf/2)
 </div>
-</div>
+<!-- </div> -->
 
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 主要荣誉
+# 🏅 Awards
 
 
-# 🗃️ 主要项目
+<!-- # 🗃️ 主要项目 -->
 
 
