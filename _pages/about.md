@@ -34,7 +34,7 @@ This is Xu Zhang
 ## 2026
 
 ---
-<p style="color:#CD5C5C">
+<p style="color:#000080">
 Chlorinated VSLSs Surpass HCFCs in CFC-11-Equivalent Emissions for Ozone Layer Depletion in China
 </p>
 
@@ -44,13 +44,13 @@ Xu Zhang, Minde An, Ziwei Chen, Pengnan Jiang, Fuli Bai, Xingchen Zhao, Weiguang
 ## 2025
 
 ---
-<p style="color:#CD5C5C">
+<p style="color:#000080">
 Fluorinated greenhouse gas mitigation potential and routes in China and globally
 </p>
 
 Fuli Bai, Pengnan Jiang, Minde An, Xingchen Zhao, Ziwei Chen, Xu Zhang, and Jianxin Hu. Journal of Environmental Management, 377, 124715 (2025).[[10.1016/j.jenvman.2025.124715]](10.1016/j.jenvman.2025.124715) 
 
-<p style="color:#CD5C5C">
+<p style="color:#000080">
 Cooling China without warming the planet: climate and co-benefits of HFC phase-down
 </p>
 
@@ -59,20 +59,20 @@ Pengnan Jiang, Pallav Purohit, Xueying Xiang, Ziwei Chen, Fuli Bai, Xingchen Zha
 ## 2024
 
 ---
-<p style="color:#CD5C5C">
+<p style="color:#000080">
 Exploring Synergistic GHG Emissions Mitigation Potential and Costs of Room Air Conditioners
 </p>
 
 Pengnan Jiang, Fuli Bai, Ziwei Chen, Xingchen Zhao, Xu Zhang, Weiguang Xu, and Jianxin Hu. Environmental Science & Technology, 58, 15359–15370 (2024).[[10.1021/acs.est.4c00223]](10.1021/acs.est.4c00223) 
 
-<p style="color:#CD5C5C">
+<p style="color:#000080">
 Atmospheric observation and emission estimation of HFC-125 and HFC-32 in China from four representative cities
 </p>
 
 Xu Zhang, Bo Yao, Jing Wu, Liying Yi, Pengnan Jiang, Fuli Bai, Ziwei Chen, Xingchen Zhao, Simon O’Doherty, Weiguang Xu, and Jianxin Hu. Science of The Total Environment, 951, 175575 (2024).[[10.1016/j.scitotenv.2024.175575]](10.1016/j.scitotenv.2024.175575) 
 
 
-<p style="color:#CD5C5C">
+<p style="color:#000080">
 20 Questions and Answers About the Ozone Layer: 2022 Update (Chinese version)
 </p>
 Served as the lead translator for this comprehensive scientific publication detailing current ozone layer science and policy. China Environment Publishing Group, Oct 2024
