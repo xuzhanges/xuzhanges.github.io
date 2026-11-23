@@ -33,7 +33,6 @@ This is Xu Zhang
 
 ## 2026
 
----
 <p style="color:#CD5C5C">
 Chlorinated VSLSs Surpass HCFCs in CFC-11-Equivalent Emissions for Ozone Layer Depletion in China
 </p>
@@ -48,7 +47,6 @@ Fuli Bai, Ziwei Chen, Pengnan Jiang, **Xu Zhang**, Xingchen Zhao, Jing Wu, Jianj
 
 ## 2025
 
----
 <p style="color:#CD5C5C">
 Fluorinated greenhouse gas mitigation potential and routes in China and globally
 </p>
@@ -63,7 +61,6 @@ Pengnan Jiang, Pallav Purohit, Xueying Xiang, Ziwei Chen, Fuli Bai, Xingchen Zha
 
 ## 2024
 
----
 <p style="color:#CD5C5C">
 Exploring Synergistic GHG Emissions Mitigation Potential and Costs of Room Air Conditioners
 </p>
