@@ -2,13 +2,13 @@
 main:
 
   - title: "CV"
-    url: "/xuzhanges/uploads/resume.pdf"
+    url: "/uploads/resume.pdf"
 
   - title: "Publications"
-    url: "/xuzhanges/publications.html"
+    url: "/publications.html"
 
   - title: "Research"
-    url: "/xuzhanges/research.html"
+    url: "/research.html"
 
 
 
