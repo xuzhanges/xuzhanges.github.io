@@ -31,16 +31,16 @@ This is Xu Zhang
 
 # 📝 论文专利
 
-### 英文
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications, Jun 2026</div><img src='images/iccsip2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	 Chlorinated VSLSs Surpass HCFCs in CFC-11-Equivalent Emissions for Ozone Layer Depletion in China
+
 This study demonstrates that chlorinated very short-lived substances have surpassed hydrochlorofluorocarbons in equivalent emissions contributing to ozone layer depletion in China.
 
+<!-- [[网页]](https://www.nature.com/articles/s41467-026-75080-y) [[预览]](1) [[下载]](/pdf/2) -->
 [[网页]](https://www.nature.com/articles/s41467-026-75080-y) [[预览]](1) [[下载]](/pdf/2)
-
 </div>
 </div>
 
