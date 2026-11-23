@@ -78,7 +78,7 @@ Atmospheric observation and emission estimation of HFC-125 and HFC-32 in China f
 20 Questions and Answers About the Ozone Layer: 2022 Update (Chinese version)
 </p>
 Served as the **lead translator** for this comprehensive scientific publication detailing current ozone layer science and policy. China Environment Publishing Group, Oct 2024
-[[https://ozone.unep.org/sites/default/files/assessment_panels/SAP-20-Q%26A-Chinese.pdf]](https://ozone.unep.org/sites/default/files/assessment_panels/SAP-20-Q%26A-Chinese.pdf) 
+[[SAP-20-Q%26A-Chinese.pdf]](https://ozone.unep.org/sites/default/files/assessment_panels/SAP-20-Q%26A-Chinese.pdf) 
 
 
 
