@@ -34,11 +34,11 @@ This is Xu Zhang
 ## 2026
 
 ---
-<p style="color:#CD5C5C">
+**<p style="color:#CD5C5C">
 Chlorinated VSLSs Surpass HCFCs in CFC-11-Equivalent Emissions for Ozone Layer Depletion in China
-</p>
+</p>**
 
-Xu Zhang, Minde An, Ziwei Chen, Pengnan Jiang, Fuli Bai, Xingchen Zhao, Weiguang Xu & Jianxin Hu. Nat Communications 17, 8197 (2026) [[10.1038/s41467-026-75080-y]](10.1038/s41467-026-75080-y) 
+Xu Zhang, Minde An, Ziwei Chen, Pengnan Jiang, Fuli Bai, Xingchen Zhao, Weiguang Xu, and Jianxin Hu. Nat Communications 17, 8197 (2026) [[10.1038/s41467-026-75080-y]](10.1038/s41467-026-75080-y) 
 
 
 ## 2025
