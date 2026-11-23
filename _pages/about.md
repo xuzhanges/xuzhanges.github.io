@@ -63,7 +63,7 @@ Pengnan Jiang, Pallav Purohit, Xueying Xiang, Ziwei Chen, Fuli Bai, Xingchen Zha
 Exploring Synergistic GHG Emissions Mitigation Potential and Costs of Room Air Conditioners
 </p>
 
-Pengnan Jiang, Fuli Bai, Ziwei Chen, Xingchen Zhao, Xu Zhang, Weiguang Xu, and Jianxin Hu. Environmental Science & Technology, 58, 15359–15370 (2024).
+Pengnan Jiang, Fuli Bai, Ziwei Chen, Xingchen Zhao, Xu Zhang, Weiguang Xu, and Jianxin Hu. Environmental Science & Technology, 58, 15359–15370 (2024).[[10.1021/acs.est.4c00223]](10.1021/acs.est.4c00223) 
 
 <p style="background-color:rgba(255,255,0,0.25)">
 Atmospheric observation and emission estimation of HFC-125 and HFC-32 in China from four representative cities
