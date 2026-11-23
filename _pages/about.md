@@ -79,6 +79,4 @@ Served as the lead translator for this comprehensive scientific publication deta
 [[https://ozone.unep.org/sites/default/files/assessment_panels/SAP-20-Q%26A-Chinese.pdf]](https://ozone.unep.org/sites/default/files/assessment_panels/SAP-20-Q%26A-Chinese.pdf) 
 
 
-</div>
-
 
