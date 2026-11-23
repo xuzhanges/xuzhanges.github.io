@@ -31,14 +31,15 @@ This is Xu Zhang
 
 # 📝 Publication
 
-# Peer-reviewed papers
+# Peer-Reviewed Publications
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications, Jun 2026</div><img src='images/iccsip2023.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
 -	 Zhang, X. et al. Chlorinated VSLSs Surpass HCFCs in CFC-11-Equivalent Emissions for Ozone Layer Depletion in China. Nat Commun 17, 8197 (2026).
 [[10.1038/s41467-026-75080-y]](10.1038/s41467-026-75080-y) 
 
-This study demonstrates that chlorinated very short-lived substances have surpassed hydrochlorofluorocarbons in equivalent emissions contributing to ozone layer depletion in China.
+<p style="text-indent:2em;">This study demonstrates that chlorinated very short-lived substances have surpassed hydrochlorofluorocarbons in equivalent emissions contributing to ozone layer depletion in China.</p>
+
 </div>
 <!-- </div> -->
 
@@ -50,7 +51,7 @@ This study demonstrates that chlorinated very short-lived substances have surpas
 This paper provides updated atmospheric observations and emission estimates for two major hydrofluorocarbons based on data from four representative Chinese cities.
 </div>
 
-# Other
+# Non-Peer-Reviewed Publications
 <div class='paper-box-text' markdown="1">
 
 -	 20 Questions and Answers About the Ozone Layer: 2022 Update (Chinese version).” China Environment Publishing Group, Oct 2024
@@ -62,9 +63,9 @@ Served as the lead translator for this comprehensive scientific publication deta
 
 
 
-<span class='anchor' id='-ryjx'></span>
+<!-- <span class='anchor' id='-ryjx'></span>
 
-# 🏅 Awards
+# 🏅 Awards -->
 
 
 <!-- # 🗃️ 主要项目 -->
