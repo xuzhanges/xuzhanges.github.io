@@ -31,16 +31,17 @@ This is Xu Zhang
 
 # 📝 Publication
 
+## 2026
+
 ---
 
-## 2026
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications, Jun 2026</div><img src='images/iccsip2023.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
 -	 Zhang, X. et al. Chlorinated VSLSs Surpass HCFCs in CFC-11-Equivalent Emissions for Ozone Layer Depletion in China. Nat Commun 17, 8197 (2026).
 [[10.1038/s41467-026-75080-y]](10.1038/s41467-026-75080-y) 
 
-<p style="text-indent:2em;">This study demonstrates that chlorinated very short-lived substances have surpassed hydrochlorofluorocarbons in equivalent emissions contributing to ozone layer depletion in China.</p>
+This study demonstrates that chlorinated very short-lived substances have surpassed hydrochlorofluorocarbons in equivalent emissions contributing to ozone layer depletion in China.
 
 </div>
 <!-- </div> -->
