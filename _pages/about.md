@@ -40,6 +40,11 @@ Chlorinated VSLSs Surpass HCFCs in CFC-11-Equivalent Emissions for Ozone Layer D
 
 Xu Zhang, Minde An, Ziwei Chen, Pengnan Jiang, Fuli Bai, Xingchen Zhao, Weiguang Xu, and Jianxin Hu. Nat Communications 17, 8197 (2026) [[10.1038/s41467-026-75080-y]](10.1038/s41467-026-75080-y) 
 
+<p style="color:#CD5C5C">
+China's growing halogenated gas emissions and banks over 1980‒2024: Impacts on ozone, climate, and trifluoroacetic acid
+</p>
+
+Fuli Bai, Ziwei Chen, Pengnan Jiang, Xu Zhang, Xingchen Zhao, Jing Wu, Jianjun Zhang, and Jianxin Hu. Advances in Climate Change Research 17, 849–861 (2026) [[10.1016/j.accre.2026.04.009]](10.1016/j.accre.2026.04.009) 
 
 ## 2025
 
@@ -48,13 +53,13 @@ Xu Zhang, Minde An, Ziwei Chen, Pengnan Jiang, Fuli Bai, Xingchen Zhao, Weiguang
 Fluorinated greenhouse gas mitigation potential and routes in China and globally
 </p>
 
-Fuli Bai, Pengnan Jiang, Minde An, Xingchen Zhao, Ziwei Chen, Xu Zhang, and Jianxin Hu. Journal of Environmental Management, 377, 124715 (2025).[[10.1016/j.jenvman.2025.124715]](10.1016/j.jenvman.2025.124715) 
+Fuli Bai, Pengnan Jiang, Minde An, Xingchen Zhao, Ziwei Chen, Xu Zhang, and Jianxin Hu. Journal of Environmental Management, 377, 124715 (2025) [[10.1016/j.jenvman.2025.124715]](10.1016/j.jenvman.2025.124715) 
 
 <p style="color:#CD5C5C">
 Cooling China without warming the planet: climate and co-benefits of HFC phase-down
 </p>
 
-Pengnan Jiang, Pallav Purohit, Xueying Xiang, Ziwei Chen, Fuli Bai, Xingchen Zhao, Xu Zhang, and Jianxin Hu. npj Climate and Atmospheric Science, 9, 18 (2025).[[10.1038/s41612-025-01289-1]](10.1038/s41612-025-01289-1) 
+Pengnan Jiang, Pallav Purohit, Xueying Xiang, Ziwei Chen, Fuli Bai, Xingchen Zhao, Xu Zhang, and Jianxin Hu. npj Climate and Atmospheric Science, 9, 18 (2025) [[10.1038/s41612-025-01289-1]](10.1038/s41612-025-01289-1) 
 
 ## 2024
 
@@ -63,13 +68,13 @@ Pengnan Jiang, Pallav Purohit, Xueying Xiang, Ziwei Chen, Fuli Bai, Xingchen Zha
 Exploring Synergistic GHG Emissions Mitigation Potential and Costs of Room Air Conditioners
 </p>
 
-Pengnan Jiang, Fuli Bai, Ziwei Chen, Xingchen Zhao, Xu Zhang, Weiguang Xu, and Jianxin Hu. Environmental Science & Technology, 58, 15359–15370 (2024).[[10.1021/acs.est.4c00223]](10.1021/acs.est.4c00223) 
+Pengnan Jiang, Fuli Bai, Ziwei Chen, Xingchen Zhao, Xu Zhang, Weiguang Xu, and Jianxin Hu. Environmental Science & Technology, 58, 15359–15370 (2024) [[10.1021/acs.est.4c00223]](10.1021/acs.est.4c00223) 
 
 <p style="color:#CD5C5C">
 Atmospheric observation and emission estimation of HFC-125 and HFC-32 in China from four representative cities
 </p>
 
-Xu Zhang, Bo Yao, Jing Wu, Liying Yi, Pengnan Jiang, Fuli Bai, Ziwei Chen, Xingchen Zhao, Simon O’Doherty, Weiguang Xu, and Jianxin Hu. Science of The Total Environment, 951, 175575 (2024).[[10.1016/j.scitotenv.2024.175575]](10.1016/j.scitotenv.2024.175575) 
+Xu Zhang, Bo Yao, Jing Wu, Liying Yi, Pengnan Jiang, Fuli Bai, Ziwei Chen, Xingchen Zhao, Simon O’Doherty, Weiguang Xu, and Jianxin Hu. Science of The Total Environment, 951, 175575 (2024) [[10.1016/j.scitotenv.2024.175575]](10.1016/j.scitotenv.2024.175575) 
 
 
 <p style="color:#CD5C5C">
