@@ -72,10 +72,13 @@ Atmospheric observation and emission estimation of HFC-125 and HFC-32 in China f
 Xu Zhang, Bo Yao, Jing Wu, Liying Yi, Pengnan Jiang, Fuli Bai, Ziwei Chen, Xingchen Zhao, Simon O’Doherty, Weiguang Xu, and Jianxin Hu. Science of The Total Environment, 951, 175575 (2024).[[10.1016/j.scitotenv.2024.175575]](10.1016/j.scitotenv.2024.175575) 
 
 
--	 20 Questions and Answers About the Ozone Layer: 2022 Update (Chinese version).” China Environment Publishing Group, Oct 2024
+<p style="color:#CD5C5C">
+20 Questions and Answers About the Ozone Layer: 2022 Update (Chinese version)
+</p>
+Served as the lead translator for this comprehensive scientific publication detailing current ozone layer science and policy. China Environment Publishing Group, Oct 2024
 [[https://ozone.unep.org/sites/default/files/assessment_panels/SAP-20-Q%26A-Chinese.pdf]](https://ozone.unep.org/sites/default/files/assessment_panels/SAP-20-Q%26A-Chinese.pdf) 
 
-Served as the lead translator for this comprehensive scientific publication detailing current ozone layer science and policy.
+
 </div>
 
 
