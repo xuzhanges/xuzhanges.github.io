@@ -33,7 +33,7 @@ This is Xu Zhang
 
 ---
 
-# 2026
+## 2026
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications, Jun 2026</div><img src='images/iccsip2023.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box-text' markdown="1">
 
@@ -45,11 +45,11 @@ This is Xu Zhang
 </div>
 <!-- </div> -->
 
-# 2025
+## 2025
 
 ---
 
-# 2024
+## 2024
 
 ---
 
@@ -69,7 +69,7 @@ This paper provides updated atmospheric observations and emission estimates for 
 Served as the lead translator for this comprehensive scientific publication detailing current ozone layer science and policy.
 </div>
 
-# 2023
+## 2023
 
 ---
 
