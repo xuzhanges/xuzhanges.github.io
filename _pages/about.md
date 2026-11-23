@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-不想写正经的主页，但以防不时之需。
+This is Xu Zhang
   
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2024.09 - 2029.07*, 博士 上海交通大学 电子信息与电气工程学院 控制科学与工程专业[（智能车实验室）](https://cyberc3.sjtu.edu.cn/)
-- *2020.09 - 2024.08*, 本科 上海交通大学 密西根学院 电子与计算机工程专业
+- *2022.09 - present*, PhD Peking University  Envrionmental Science
+- *2018.09 - 2022.06*, Bachelor Hohai University  Envrionmental Science
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -60,16 +60,6 @@ redirect_from:
 
 - 杨亦凯,`季诺澄`,李敖然.虚拟校园:方块交大探索与实践[J].中国教育网络,2022(12):75-77
 [[网页]](https://lib.cqvip.com/Qikan/Article/Detail?id=7109415256)
-
-
-### 专利
-
-- 杨明; `季诺澄`; 庄瀚洋; 王春香. 一种基于三维点云的虚拟现实场景建模系统和方法.
-- 杨明; 于子岐; 庄瀚洋; `季诺澄`; 余勇瑞; 王春香; 王冰. 在三维街景地图上与渲染实体进行交互的方法及系统.
-- 杨明; 余勇瑞; 庄瀚洋; `季诺澄`; 于子岐; 王春香; 王冰. 基于NeRF和现实地理的三维街景地图构建方法及系统.
-- 杨明; 徐欣颜; 庄瀚洋; `季诺澄`; 戚治齐; 王春香; 王冰. 基于手机相机众包数据的NeRF实景建模方法及系统.
-- 杨明; 戚治齐; 庄瀚洋; `季诺澄`; 徐欣颜; 王春香; 王冰. 基于车载相机获取实时街景图像构建NeRF实景的方法.
-- 吴卫华; `季诺澄`. 具有擦鞋功能的扶手电梯.
 
 
 
