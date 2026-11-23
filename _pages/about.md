@@ -39,6 +39,7 @@ This is Xu Zhang
 <div class='paper-box-text' markdown="1">
 
 Chlorinated VSLSs Surpass HCFCs in CFC-11-Equivalent Emissions for Ozone Layer Depletion in China
+
 Xu Zhang, Minde An, Ziwei Chen, Pengnan Jiang, Fuli Bai, Xingchen Zhao, Weiguang Xu & Jianxin Hu. Nat Communications 17, 8197 (2026) [[10.1038/s41467-026-75080-y]](10.1038/s41467-026-75080-y) 
 
 This study demonstrates that chlorinated very short-lived substances have surpassed hydrochlorofluorocarbons in equivalent emissions contributing to ozone layer depletion in China.
@@ -50,19 +51,24 @@ This study demonstrates that chlorinated very short-lived substances have surpas
 
 ---
 Fluorinated greenhouse gas mitigation potential and routes in China and globally
-Fuli Bai, Pengnan Jiang, Minde An, Xingchen Zhao, Ziwei Chen, Xu Zhang, and Jianxin Hu. Journal of Environmental Management. 377, 124715 (2025).[[10.1016/j.jenvman.2025.124715]](10.1016/j.jenvman.2025.124715) 
+
+Fuli Bai, Pengnan Jiang, Minde An, Xingchen Zhao, Ziwei Chen, Xu Zhang, and Jianxin Hu. Journal of Environmental Management, 377, 124715 (2025).[[10.1016/j.jenvman.2025.124715]](10.1016/j.jenvman.2025.124715) 
 
 Cooling China without warming the planet: climate and co-benefits of HFC phase-down
-Pengnan Jiang, Pallav Purohit, Xueying Xiang, Ziwei Chen, Fuli Bai, Xingchen Zhao, Xu Zhang, and Jianxin Hu. npj Climate and Atmospheric Science 9, 18 (2025).[[10.1038/s41612-025-01289-1]](10.1038/s41612-025-01289-1) 
+
+Pengnan Jiang, Pallav Purohit, Xueying Xiang, Ziwei Chen, Fuli Bai, Xingchen Zhao, Xu Zhang, and Jianxin Hu. npj Climate and Atmospheric Science, 9, 18 (2025).[[10.1038/s41612-025-01289-1]](10.1038/s41612-025-01289-1) 
 
 ## 2024
 
 ---
-2. Jiang, P. et al. Exploring Synergistic GHG Emissions Mitigation Potential and Costs of Room Air Conditioners. Environ. Sci. Technol. 58, 15359–15370 (2024).
+Exploring Synergistic GHG Emissions Mitigation Potential and Costs of Room Air Conditioners
+
+Pengnan Jiang, Fuli Bai, Ziwei Chen, Xingchen Zhao, Xu Zhang, Weiguang Xu, and Jianxin Hu. Environmental Science & Technology, 58, 15359–15370 (2024).
 <div class='paper-box-text' markdown="1">
 
--	 Zhang, X. et al. Atmospheric observation and emission estimation of HFC-125 and HFC-32 in China from four representative cities. Sci. Total Environ. 951, 175575 (2024).
-[[10.1016/j.scitotenv.2024.175575]](10.1016/j.scitotenv.2024.175575) 
+Atmospheric observation and emission estimation of HFC-125 and HFC-32 in China from four representative cities
+
+Xu Zhang, Bo Yao, Jing Wu, Liying Yi, Pengnan Jiang, Fuli Bai, Ziwei Chen, Xingchen Zhao, Simon O’Doherty, Weiguang Xu, and Jianxin Hu. Science of The Total Environment, 951, 175575 (2024).[[10.1016/j.scitotenv.2024.175575]](10.1016/j.scitotenv.2024.175575) 
 
 This paper provides updated atmospheric observations and emission estimates for two major hydrofluorocarbons based on data from four representative Chinese cities.
 </div>
