@@ -19,17 +19,18 @@ redirect_from:
 
 This is Xu Zhang
   
-
+# Research
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 Education
-- *2022.09 - present*, PhD Peking University  Envrionmental Science
-- *2018.09 - 2022.06*, Bachelor Hohai University  Envrionmental Science
+
+# Education
+- *2022.09 - present*, PhD candidate, Peking University,  Envrionmental Science
+- *2018.09 - 2022.06*, Bachelor, Hohai University,  Envrionmental Science
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 Publication
+# Publication
 
 ## 2026
 
